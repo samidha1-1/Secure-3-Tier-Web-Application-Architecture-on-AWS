@@ -1,14 +1,14 @@
-fthis is my code for my app from flask import Flask, render_template, request
+ from flask import Flask, render_template, request
 import pymysql
 
 
 app = Flask(__name__)
 
 # ---------- DATABASE CONFIG ----------
-DB_HOST = "my-endpoint-crendentail"
-DB_USER = "my-name"
-DB_PASSWORD = "my-db-password"
-DB_NAME = "my-db-name"
+DB_HOST = "projectdb.c5aus8ggw8ft.ap-south-1.rds.amazonaws.com",
+DB_USER = "samidha",
+DB_PASSWORD = "samidha12",
+DB_NAME = "projectdb",
 
 
 def get_db_connection():
