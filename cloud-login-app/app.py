@@ -1,14 +1,14 @@
 from flask import Flask, render_template, request
 import pymysql
-import os 
+
 
 app = Flask(__name__)
 
 # ---------- DATABASE CONFIG ----------
-DB_HOST = "RDS-ENDPOINT"
-DB_USER = "admin"
-DB_PASSWORD = "admin123"
-DB_NAME = "logindb"
+DB_HOST = "my-endpoint-crendentail"
+DB_USER = "my-name"
+DB_PASSWORD = "my-db-password"
+DB_NAME = "my-db-name"
 
 
 def get_db_connection():
