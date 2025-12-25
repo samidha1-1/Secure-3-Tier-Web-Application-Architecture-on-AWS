@@ -1,11 +1,11 @@
- from flask import Flask, render_template, request
+from flask import Flask, render_template, request
 import pymysql
 
 
 app = Flask(__name__)
 
 # ---------- DATABASE CONFIG ----------
-DB_HOST = "projectdb.c5aus8ggw8ft.ap-south-1.rds.amazonaws.com",
+DB_HOST = "projectdb.ctwwe0s80yht.eu-north-1.rds.amazonaws.com",
 DB_USER = "samidha",
 DB_PASSWORD = "samidha12",
 DB_NAME = "projectdb",
