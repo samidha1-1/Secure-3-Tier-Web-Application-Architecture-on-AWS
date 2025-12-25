@@ -5,10 +5,10 @@ import pymysql
 app = Flask(__name__)
 
 # ---------- DATABASE CONFIG ----------
-DB_HOST = "projectdb.ctwwe0s80yht.eu-north-1.rds.amazonaws.com",
-DB_USER = "samidha",
-DB_PASSWORD = "samidha12",
-DB_NAME = "projectdb",
+DB_HOST = "projectdb.ctwwe0s80yht.eu-north-1.rds.amazonaws.com"
+DB_USER = "samidha"
+DB_PASSWORD = "samidha12"
+DB_NAME = "projectdb"
 
 
 def get_db_connection():
