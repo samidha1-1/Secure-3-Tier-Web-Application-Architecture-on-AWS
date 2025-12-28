@@ -52,4 +52,11 @@ python app.py
 ## Deployment 
 - Deploy on AWS EC2 instance 
 - MySQL database hosted on AWS RDS
-- Application load balanacer (ALB) routes traffic to the ec2 instance securely  
+- Application load balanacer (ALB) routes traffic to the ec2 instance securely
+
+---
+
+## Login valid png 
+![login valid](images/login-valid.png)
+
+  
