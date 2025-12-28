@@ -59,4 +59,17 @@ python app.py
 ## Login valid png 
 ![login valid](images/login-valid.png)
 
+Author
+
+Samidha Wani
+
+---
+
+This is clean, **ready-to-use**, and works perfectly without including screenshots.  
+
+If you want, I can also **add a `requirements.txt` snippet and folder structure section** so anyone can clone and run your project easily.  
+
+Do you want me to do that?
+
+
   
