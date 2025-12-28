@@ -16,3 +16,9 @@ The app demonstrates secure communication between layers and basic CRUD function
 - Database CRUD operations
 - Hosted on AWS EC2 with RDS
 - Secure 3-tier architecture
+
+ ---
+
+## Architecture Diagram
+![ Architecture Diagram](Secure-3-Tier-Web-Application-Architecture-on-AWS
+/architecture-diagramm.png)
