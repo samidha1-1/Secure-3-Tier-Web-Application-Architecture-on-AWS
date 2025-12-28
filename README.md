@@ -20,5 +20,4 @@ The app demonstrates secure communication between layers and basic CRUD function
  ---
 
 ## Architecture Diagram
-![ Architecture Diagram](Secure-3-Tier-Web-Application-Architecture-on-AWS
-/architecture-diagramm.png)
+![ Architecture Diagram](architecture-diagramm.png)
