@@ -5,10 +5,10 @@ import os
 app = Flask(__name__)
 
 # ---------- DATABASE CONFIG ----------
-DB_HOST = "RDS-ENDPOINT"
-DB_USER = "admin"
-DB_PASSWORD = "admin123"
-DB_NAME = "logindb"
+DB_HOST = "/rds/endpoint/credentail"
+DB_USER = "/rds/hostname/credentail"
+DB_PASSWORD = "/rds/password/credentail"
+DB_NAME = "/rds/username/credential"
 
 
 def get_db_connection():
