@@ -10,13 +10,6 @@ DB_HOST = "/rds/endpoint/credentail"
 DB_USER = "/rds/hostname/credentail"
 DB_PASSWORD = "/rds/password/credentail"
 DB_NAME = "/rds/username/credential"
-=======
-DB_HOST = "projectdb.ctwwe0s80yht.eu-north-1.rds.amazonaws.com"
-DB_USER = "samidha"
-DB_PASSWORD = "samidha12"
-DB_NAME = "projectdb"
->>>>>>> d2977f99e353d9a62fd729bd7abc0274b3670c84
-
 
 def get_db_connection():
     return pymysql.connect(
