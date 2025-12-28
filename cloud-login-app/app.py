@@ -5,7 +5,6 @@ import pymysql
 app = Flask(__name__)
 
 # ---------- DATABASE CONFIG ----------
-<<<<<<< HEAD
 DB_HOST = "/rds/endpoint/credentail"
 DB_USER = "/rds/hostname/credentail"
 DB_PASSWORD = "/rds/password/credentail"
