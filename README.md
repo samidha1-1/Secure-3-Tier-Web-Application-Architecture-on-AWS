@@ -59,6 +59,17 @@ python app.py
 ## Login valid png 
 ![login valid](images/login-valid.png)
 
+---
+
+## Technologies used 
+- AWS EC2
+- AWS RDS (MySQL)
+- AWS VPC (private subnets)
+- Application Load Balancer (ALB)
+- IAM Roles & Security Groups
+- Python
+- MySQL (hosted on AWS RDS)
+- HTML , CSS , Flask(python framework)
 
 
 
